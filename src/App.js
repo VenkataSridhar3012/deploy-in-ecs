@@ -19,7 +19,7 @@ function App() {
         </a>
         <p>Hello world</p>
         <p>new thing</p>
-        <p>new</p>
+        
       </header>
     </div>
   );
