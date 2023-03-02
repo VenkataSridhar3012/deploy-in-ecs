@@ -72,10 +72,6 @@
     ],
     "cpu": "1024",
     "memory": "3072",
-    "runtimePlatform": {
-        "cpuArchitecture": "X86_64",
-        "operatingSystemFamily": "LINUX"
-    },
     "registeredAt": "2023-03-02T19:38:39.642Z",
     "registeredBy": "arn:aws:iam::903509847458:root",
     "tags": []
