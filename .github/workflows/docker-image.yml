@@ -16,9 +16,9 @@ on:
 
 env:
   AWS_REGION: ap-south-1                   # set this to your preferred AWS region, e.g. us-west-1
-  ECR_REPOSITORY: github-sample          # set this to your Amazon ECR repository name
-  ECS_SERVICE: 	final-service             # set this to your Amazon ECS service name
-  ECS_CLUSTER: new-final-cluster              # set this to your Amazon ECS cluster name
+  ECR_REPOSITORY: ecr_poc_repo          # set this to your Amazon ECR repository name
+  ECS_SERVICE: 	ecs_poc_service             # set this to your Amazon ECS service name
+  ECS_CLUSTER: ecs-poc-cluster              # set this to your Amazon ECS cluster name
   ECS_TASK_DEFINITION: sri-naresh-revision1.json  
 # set this to the path to your Amazon ECS task definition
                                                # file, e.g. .aws/task-definition.json
